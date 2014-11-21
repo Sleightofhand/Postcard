@@ -6,6 +6,8 @@
 //  Copyright (c) 2014 Max Krause. All rights reserved.
 //
 
+//adding a comment here to test git.
+
 import UIKit
 
 class ViewController: UIViewController {
